@@ -1,1 +1,1 @@
-<h1>Repositório Aula</h1>
+<h1 align="center">Repositório Aula</h1>
